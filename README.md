@@ -1,9 +1,4 @@
-# AIoT Lab6 Team 2
-
-## 在 Raspberry Pi 4 上實作 Lab2 及 Lab3
-
-
----
+# AIoT Lab6 Team 2 - 在 Raspberry Pi 4 上實作 Lab2 及 Lab3
 
 ## 實驗步驟
 
