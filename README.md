@@ -3,8 +3,6 @@
 ## 在 Raspberry Pi 4 上實作 Lab2 及 Lab3
 
 
-> ***last updated: 2024/04/24***
-
 ---
 
 ## 實驗步驟
